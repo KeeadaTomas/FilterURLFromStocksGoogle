@@ -27,3 +27,5 @@ if main_ticker:
 
 # Print all the tickers found
 print("All Stock Tickers:", all_comparison_tickers)
+
+#the reason is that i want to grab all the items to remove the first onee
